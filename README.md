@@ -3,17 +3,17 @@
 
 ---
 
-- 🔭 Currently work at [Okta](https://developer.okta.com)
+- 🔭 Currently work at [Okta](https://developer.okta.com).
 
-- 🌱 I’m currently learning **GoLang**
+- 🌱 I’m currently learning **GoLang** and **Rust**
 
-- 👯 I’m looking to collaborate on [Teraformer](https://github.com/GoogleCloudPlatform/terraformer)
+- 👯 I’m looking to collaborate on [Teraformer](https://github.com/GoogleCloudPlatform/terraformer)(Reverse Terraform 🙃).
 
-- 🤝 I’m looking for help with [Awesome Okta](https://github.com/noinarisak/awesome-okta)
+- 🤝 I’m looking for help with [Awesome Okta](https://github.com/noinarisak/awesome-okta).
 
-- 💬 Ask me about **Terraform, IDaaS, CIAM, DevOps/DevSecOps**
+- 💬 Ask me about **Terraform, IDaaS, CIAM, DevOps/DevSecOps**.
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/noinarisak/](https://www.linkedin.com/in/noinarisak/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/noinarisak/](https://www.linkedin.com/in/noinarisak/) and contact me.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
