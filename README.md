@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 Currently work at [Okta](https://developer.okta.com).
+- 🔭 Use to work at [Okta](https://developer.okta.com).
 
 - 🌱 I’m currently learning **GoLang** and **Rust**
 
