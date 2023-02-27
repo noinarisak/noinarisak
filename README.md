@@ -3,11 +3,13 @@
 
 ---
 
-- 🔭 Fromally use to work at [Okta](https://developer.okta.com). 😅
+- 🔭 Use to work at [Okta](https://developer.okta.com) 😅, now I'm [open to network](https://www.linkedin.com/in/noinarisak/). Schedule a [conversation](https://calendly.com/noi-narisak) 🤝.
 
-- 🌱 I’m currently learning **GoLang** and **Rust**
+- 🌱 I’m currently learning **GoLang** and **Rust**.
 
-- 👯 I’m looking to collaborate on [Teraformer](https://github.com/GoogleCloudPlatform/terraformer)(Reverse Terraform 🙃).
+- 👯 I’m looking to collaborate on [Teraformer](https://github.com/GoogleCloudPlatform/terraformer)(Reverse Terraform 🙃). 
+
+- 🤘 Still contributing to [Okta Terraform Provider](https://github.com/okta/terraform-provider-okta), ask me about it from a former Maintainer standpoint.
 
 - 🤝 I’m looking for help with [Awesome Okta](https://github.com/noinarisak/awesome-okta).
 
