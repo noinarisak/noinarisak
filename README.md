@@ -3,8 +3,7 @@
 
 ---
 
-- 🔭 Use to work at [Okta](https://developer.okta.com) 😅, now I'm [open to network](https://www.linkedin.com/in/noinarisak/). Schedule a [conversation](https://calendly.com/noi-narisak) 🤝.
-
+- 🔭 Use to work at [Okta](https://developer.okta.com) 😅, now I'm [open to network](https://www.linkedin.com/in/noinarisak/).
 - 🌱 I’m currently learning **GoLang** and **Rust**.
 
 - 👯 I’m looking to collaborate on [Teraformer](https://github.com/GoogleCloudPlatform/terraformer)(Reverse Terraform 🙃). 
